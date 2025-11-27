@@ -5,7 +5,7 @@
 
 <!-- Intro -->
 # Hi, I'm Laiba Jawaid  
-💻 Aspiring Data Scientist | 🚀 Tech Explorer  | 🎨 Graphic Designer
+💻 Aspiring AI Enthusiast | Explorinng Data Science | 🎨 Graphic Designer | CS Student
 
 - I’m a Computer Science student passionate about Data Science, Machine Learning, and AI 🎓.
 - While my main domain of interest is Data Science, I love exploring different technologies and have built projects in Python, C++, Java, HTML,    CSS, SQL, and GUI development 💡.
